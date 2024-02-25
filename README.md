@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 2nd year student currently pursuing a Bachelor of Advanced Computing (Research & Development) (Honours) at the Australian National University.
+
+My interest lies in web development and I am currently learning to be a full stack engineer on Codecademy.
+
+I also have a bit of interest in artificial intelligence as well as machine learning.
